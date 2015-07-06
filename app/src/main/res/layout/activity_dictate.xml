@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:keepScreenOn="true"
+    tools:context=".DictateActivity" >
+
+    <Button
+        android:id="@+id/bt_speak"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:text="@string/ready_button"
+        android:onClick="startDictating" />
+	<ListView android:id="@+id/choiceView"
+          android:layout_height="wrap_content"
+          android:layout_width="match_parent"/>
+    <TextView
+        android:id="@+id/comp_result"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18.5sp"
+        android:text="" />
+
+</LinearLayout>
