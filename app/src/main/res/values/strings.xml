@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">MyWords</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_close">Close</string>
     <string name="ready_button">I am ready to talk!</string>
 
 </resources>
