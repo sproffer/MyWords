@@ -7,3 +7,6 @@ Voice recognition problems:
 
 To download:
 https://github.com/sproffer/MyWords/blob/master/download/MyWords.apk
+
+https://github.com/sproffer/MyWords/releases/download/packaged/MyWords.apk
+
