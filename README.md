@@ -6,6 +6,5 @@ Voice recognition problems:
 2.  it is not working "at all" in a driving car, even though windows closed. Granted that my car is not lexury and there are some background engine noises.
 
 To download:
-https://github.com/sproffer/MyWords/blob/master/download/MyWords.apk
-
+https://github.com/sproffer/MyWords/releases/download/packaged/MyWords.apk
 
